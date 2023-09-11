@@ -2,7 +2,7 @@
 <p>Through this project I will be performing data analysis on fitness watch data using Python.</p>
 <p>I will be analyzing information gathered from fitness wearables or smartwatches in order to extract valuable insights regarding users' health and activity trends. These wearable devices record various metrics, including steps taken, energy expended, walking speed, and additional data.</p>
 
-<h3>Performing EDA to gain initial insights into the data:<h3>
+<h3>Performing EDA to gain initial insights into the data:</h3>
   
 <b>Step Count Over Time</b>
 <img src="Files/Step Count Over Time.png">
