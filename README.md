@@ -5,35 +5,27 @@
 <h3>Performing EDA to gain initial insights into the data:</h3>
   
 <b>Step Count Over Time</b>
-
 <img src="Files/Step Count Over Time.png">
 
 <b>Distance Covered Over Time</b>
-
 <img src="Files/Distance Covered Over Time.png">
 
 <b>Energy Burned Over Time</b>
-
 <img src="Files/Energy Burned Over Time.png">
 
 <b>Walking Speed Over Time</b>
-
 <img src="Files/Walking Speed Over Time.png">
 
 <b>Average step count per day</b>
-
 <img src="Files/Average step count per day.png">
 
 <b>Walking efficiency over time</b>
-
 <img src="Files/Walking efficiency over time.png">
 
 <b>Step count and walking speed variations by time intervals</b>
-
 <img src="Files/Step count and walking speed variations by time intervals.png">
 
 <b>Comparing the daily average of all the health and fitness metrics:</b>
-
 <img src="Files/Daily Averages for Different Metrics.png">
 
 <p>Each rectangular tile in the graph above represents the different health and fitness metrics.</p>
